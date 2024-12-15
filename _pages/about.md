@@ -30,7 +30,7 @@ Education
 
 Bio
 ------
-Ruilin was born in Xi'an, Shaanxi, China. He completed all his pre-college education at schools affiliated to Xi'an Jiaotong University for 12 years. He went to Nankai University and majored in chemistry, which was one his life goals.  
+Ruilin was born in Xi'an, Shaanxi, China. He completed all his pre-college education at schools affiliated to Xi'an Jiaotong University for 12 years. He went to Nankai University and majored in chemistry in 2021. During his undergraduate years, he made the decision to pursue his graduate study abroad in the US.
 
 News
 ------
