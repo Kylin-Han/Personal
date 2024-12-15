@@ -12,7 +12,7 @@ title                    : "Ruilin Han"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://kylin-han.github.io/Personal/"
+url                      : https://kylin-han.github.io/Personal # the base hostname & protocol for your site e.g. "https://kylin-han.github.io/Personal/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
